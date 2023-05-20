@@ -1,7 +1,7 @@
 <p align="center">
-  <h1 align="center">Welcome to <a href="https://github.com/Pankajkaushik2207">Pankaj Kaushik</a>'s Profile 👋</h1>
+  <h1 align="center">Welcome to <a href="https://github.com/deepanshu-byte">Deepanshu Pandey</a>'s Profile 👋</h1>
 </p>
-<p>I'm a Programmer, I'm a Web Developer, I also like to create projects in React.</p>
+<p>I'm a Programmer, I'm a Software Developer, I also like to create projects in different languages.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hi, I’m Deepanshu Pandey</li>
@@ -29,13 +29,13 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/pankaj-kaushik-8640161b8/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/pankaj"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/deepanshupandey-"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/unseendeepanshu"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Pankajkaushik2207/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Pankajkaushik2207">
+<a href="https://github.com/deepanshu-byte/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=deepanshu-byte">
 </a>
-<a href="https://github.com/Pankajkaushik2207?tab=followers"><img src="https://img.shields.io/github/followers/Divijkatyal0406?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/deepanshu-byte?tab=followers"><img src="https://img.shields.io/github/followers/deepanshu-byte?label=Followers&style=social" alt="GitHub Badge"></a>
