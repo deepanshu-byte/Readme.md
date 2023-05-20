@@ -31,7 +31,7 @@
 
 <a href = "https://www.linkedin.com/in/deepanshupandey-"  target = "_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/unseendeepanshu" target = "_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="https://instagram.com/ideepanshupandey" target="_blank">< img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
 </p>
   <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=deepanshu-byte&theme=react&show_icons=true&include_all_commits=true" />
