@@ -31,7 +31,7 @@
 
 <a href = "https://www.linkedin.com/in/deepanshupandey-"  target = "_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/unseendeepanshu" target = "_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://instagram.com/ideepanshupandey" target = "_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3DINSTAGRAM&psig=AOvVaw15K-4re58x5c5zK3piw-pY&ust=1684693002085000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiBsNvAhP8CFQAAAAAdAAAAABAE"/></a>
+<a href = "https://instagram.com/ideepanshupandey" target = "_blank"><img src="https://icons8.com/icon/32323/instagram"/></a>
 </p>
 
 ## ❤ Views and Followers
