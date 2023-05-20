@@ -33,9 +33,18 @@
 <a href = "https://twitter.com/unseendeepanshu" target = "_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://instagram.com/ideepanshupandey" target = "_blank"><img src="https://www.flaticon.com/free-icon/instagram_2111463#"/></a>
 </p>
+  <p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=deepanshu-byte&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-byte&theme=react&layout=compact" />
+</p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/deepanshu-byte/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=deepanshu-byte">
 </a>
+  
+
+------
+
 <a href="https://github.com/deepanshu-byte?tab=followers"><img src="https://img.shields.io/github/followers/deepanshu-byte?label=Followers&style=social" alt="GitHub Badge"></a>
+[Deepanshu Pandey](https://github.com/deepanshu-byte)
